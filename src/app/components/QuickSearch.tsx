@@ -8,8 +8,7 @@ function QuickSearch() {
             <div className="container mx-auto p-5">
                 <Titulo texto="Tente Pesquisar por"/>
             </div>
-
-            <Icons/>
+                <Icons/>        
         </div>
     )
 }
